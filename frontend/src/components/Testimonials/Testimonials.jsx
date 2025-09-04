@@ -12,31 +12,31 @@ const Testimonials = () => {
       pic: avatar1,
       name: "John Doe",
       description:
-        "Our trip with TripsTravel was nothing short of amazing! The attention to detail, friendly guides, and unforgettable experiences made it truly special. Can't wait for the next adventure!",
+        "Our trip with TravelStories was nothing short of amazing! The attention to detail, friendly guides, and unforgettable experiences made it truly special. Can't wait for the next adventure!",
     },
     {
       pic: avatar2,
       name: "Jane Smith",
       description:
-        "TripsTravel exceeded my expectations. From landscapes to  encounters, every moment was a delight. The team's expertise and personalized service made the journey unforgettable.",
+        "TravelStories exceeded my expectations. From landscapes to  encounters, every moment was a delight. The team's expertise and personalized service made the journey unforgettable.",
     },
     {
       pic: avatar3,
       name: "Chris Johnson",
       description:
-        "I've traveled with agencies, but TripsTravel stands out. The seamless planning, knowledgeable, and unique destinations set them apart. An incredible way to explore the world!",
+        "I've traveled with agencies, but TravelStories stands out. The seamless planning, knowledgeable, and unique destinations set them apart. An incredible way to explore the world!",
     },
     {
       pic: avatar1,
       name: "Emily Davis",
       description:
-        "TripsTravel made our dream vacation a reality. The carefully crafted itinerary, diverse activities, and genuine hospitality created an experience we'll cherish forever. Highly recommended!",
+        "TravelStories made our dream vacation a reality. The carefully crafted itinerary, diverse activities, and genuine hospitality created an experience we'll cherish forever. Highly recommended!",
     },
     {
       pic: avatar3,
       name: "Alex Turner",
       description:
-        "A big shoutout to the TripsTravel team for an unforgettable journey. The blend of adventure and relaxation was perfect. I'll be booking my next trip with them without a doubt.",
+        "A big shoutout to the TravelStories team for an unforgettable journey. The blend of adventure and relaxation was perfect. I'll be booking my next trip with them without a doubt.",
     },
   ];
 

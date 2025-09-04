@@ -1,4 +1,7 @@
-const BASE_URL = "";
-// const BASE_URL = "http://localhost:3050/api";
-//
-export default BASE_URL;
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
+
+export default defineConfig({
+  plugins: [react()],
+  base: "TravelStories",
+});
